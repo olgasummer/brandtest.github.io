@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My hugo branding test</title>
+    <link>http://brandtest.github.io/</link>
+    <description>Recent content on My hugo branding test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 07:24:37 +1000</lastBuildDate><atom:link href="http://brandtest.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>http://brandtest.github.io/post/mypost/</link>
+      <pubDate>Sat, 18 Jun 2022 07:24:37 +1000</pubDate>
+      
+      <guid>http://brandtest.github.io/post/mypost/</guid>
+      <description>this is some content</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://brandtest.github.io/about/</link>
+      <pubDate>Sat, 18 Jun 2022 07:22:01 +1000</pubDate>
+      
+      <guid>http://brandtest.github.io/about/</guid>
+      <description>This is my new page</description>
+    </item>
+    
+  </channel>
+</rss>
